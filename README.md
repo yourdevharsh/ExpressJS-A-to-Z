@@ -26,6 +26,8 @@ Here is a breakdown of the APIs and concepts covered in this repository, from A 
 | **L. Notes API** | Implementing more complex CRUD logic.                  | [`./L. Notes API`](./L.%20Notes%20API)            |
 | **M. Proxy Server** | Building a basic proxy to forward requests.            | [`./M. Proxy Server`](./M.%20Proxy%20Server)      |
 
+More soon....
+
 ---
 
 ## ⚙️ How to Run Each Project
@@ -46,7 +48,7 @@ Each project is a standalone application. To run one:
 
 3.  **Run the server:**
     ```bash
-    node index.js 
+    node server.js
     # or node app.js, check the main file in the directory
     ```
     The server will start, and you can access the API, typically at `http://localhost:3000`.
